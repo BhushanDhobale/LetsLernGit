@@ -1,3 +1,4 @@
 a=2
 b=5
-print(a+b)
+print("The addition og both var",a+b)
+print("HI")
